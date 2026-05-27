@@ -51,5 +51,15 @@
         "./skills/claude-api"
       ]
     }
+    ,
+    {
+      "name": "frontend-design",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality for web components, pages, artifacts, and applications",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/frontend-design"
+      ]
+    }
   ]
 }
